@@ -8,8 +8,8 @@ import os
 import psutil
 from itertools import zip_longest
 import subprocess
-TOKEN = "6228036250:AAG0ZyujGTT9nGcO7RP0oVRD2V8uWNdZcuk"
-chat_id = "6004481260"
+TOKEN = "YOUR_BOT_TOKEN"
+chat_id = "YOUR_CHAT_ID"
 
 
 f = open('D:/TT/start_sklad.bat', 'r')
